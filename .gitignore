@@ -1,3 +1,5 @@
 fastapi_env
-.envst
+.env
 __pycache__
+docker-compose.yml
+test.py
